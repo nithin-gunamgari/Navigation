@@ -1,13 +1,10 @@
-# SLAM & Differential Drive Software from Scratch
-* Author: Arun Kumar
+# SLAM on Turtlebot from scratch
+* Author: Nithin Gunamgari
 
-# Description
-* This repository is a remake of the Turtlebot3 Burger ROS software
-* See <a href="https://ayerun.github.io/Portfolio/SLAM.html" target="_blank">this portfolio post</a> for a detailed explanation
-* Features
-    * Differential Drive Kinematics
-    * Dead Reckoning Odometry
-    * Extended Kalman Filter SLAM
+# Features
+* Differential Drive Kinematics
+* Dead Reckoning Odometry
+* Implementation of EKF (Extended Kalman Filter) SLAM from scratch
 
 # Package List
 This repository consists of several ROS packages
